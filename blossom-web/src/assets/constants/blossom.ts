@@ -21,7 +21,7 @@ const blossom: any = {
     LOC: 'BLOSSOM-LOC',
     PRD: 'BLOSSOM-PRD/',
     // 填写你开放为博客的用户ID
-    USER_ID: BLOSSOM-USER-ID
+    USER_ID: 'BLOSSOM-USER-ID'
   },
   /**
    * 可以填写你自己的网站
