@@ -8,9 +8,9 @@ const blossom: any = {
     // 版本
     VERSION: 'v1.4.1',
     // 公网安备号
-    GONG_WANG_AN_BEI: "AB",
+    GONG_WANG_AN_BEI: "BLOSSOM-AB",
     // ICP 备案号
-    ICP_BEI_AN_HAO: 'ICP',
+    ICP_BEI_AN_HAO: 'BLOSSOM-ICP',
     // 邮箱
     EMAIL: 'BLOSSOM-EMAIL'
   },
@@ -29,23 +29,23 @@ const blossom: any = {
    * URL: 网站地址
    * LOGO: 网站LOGO, 放在 src/assets/imgs/linklogo/ 路径下
    */
-//   LINKS: [
-//     {
-//       NAME: '我的个人主页',
-//       URL: 'https://www.wangyunf.com',
-//       LOGO: 'luban.png'
-//     },
-//     {
-//       NAME: 'Blossom 双链笔记软件',
-//       URL: 'https://www.wangyunf.com/blossom-doc/index',
-//       LOGO: 'blossom_logo.png'
-//     },
-//     {
-//       NAME: 'GuardCat 服务监控解决方案',
-//       URL: 'https://www.wangyunf.com/view/#/home',
-//       LOGO: 'guardcat_logo.jpg'
-//     }
-//   ]
+  LINKS: [
+    {
+      NAME: '我的个人主页',
+      URL: 'https://www.wangyunf.com',
+      LOGO: 'luban.png'
+    },
+    {
+      NAME: 'Blossom 双链笔记软件',
+      URL: 'https://www.wangyunf.com/blossom-doc/index',
+      LOGO: 'blossom_logo.png'
+    },
+    {
+      NAME: 'GuardCat 服务监控解决方案',
+      URL: 'https://www.wangyunf.com/view/#/home',
+      LOGO: 'guardcat_logo.jpg'
+    }
+  ]
 // }
 
 export default blossom
