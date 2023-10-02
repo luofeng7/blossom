@@ -19,7 +19,7 @@ const blossom: any = {
    */
   DOMAIN: {
     LOC: 'BLOSSOM-LOC',
-    PRD: 'BLOSSOM-PRD/',
+    PRD: 'BLOSSOM-PRD',
     // 填写你开放为博客的用户ID
     USER_ID: 1
   },
