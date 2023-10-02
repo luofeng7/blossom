@@ -21,7 +21,7 @@ const blossom: any = {
     LOC: 'http://127.0.0.1:9999/',
     PRD: 'https://www.wangyunf.com/bl/',
     // 填写你开放为博客的用户ID
-    USER_ID: 1
+    USER_ID: BLOSSOM-USER-ID
   },
   /**
    * 可以填写你自己的网站
